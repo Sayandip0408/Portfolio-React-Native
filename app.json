@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "Portfolio",
+    "slug": "Portfolio",
+    "extra": {
+      "eas": {
+        "projectId": "c3975759-4f7f-420d-89b9-980b1fc2cb6e"
+      }
+    },
+    "android": {
+      "package": "com.sayandip4899.Portfolio"
+    },
+    "ios": {
+      "bundleIdentifier": "com.sayandip4899.Portfolio"
+    }
+  }
+}
